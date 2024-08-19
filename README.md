@@ -1,2 +1,0 @@
-# ChainbaseMetadata
-Chainbase Proof
